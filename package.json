@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel index.html",
-    "build": "parcel build index.html && rm -rf docs && cp -R dist docs"
+    "build": "parcel build index.html --public-url ./ && rm -rf docs && cp -R dist docs"
   },
   "keywords": [],
   "author": "",
