@@ -1,0 +1,1 @@
+{"version":3,"sources":["calendar.css"],"names":[],"mappings":"AACA,oBACI,sBACJ","file":"calendar.d6be290e.css","sourceRoot":"..","sourcesContent":["\n.calendar_container {\n    border: 1px dotted teal;\n}"]}
