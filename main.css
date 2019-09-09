@@ -41,6 +41,7 @@ body {
     height: 72px;
     align-items: flex-end;
     align-self: flex-end;
+    flex-wrap: wrap;
   }
 
   ul.menu > li {
@@ -70,9 +71,8 @@ body {
       max-width: 1200px;
       margin: auto;
       display: grid;
-      /* grid-template-columns: repeat(auto-fit, minmax(320px, 1fr, .7fr, 1fr)); */
-      grid-template-columns: 1fr .75fr 1fr;
-      /* grid-template-rows: repeat(auto-fit, minmax(265px, 1fr)); */
+      /* grid-template-columns: 1fr .75fr 1fr; */
+      grid-template-columns: repeat(auto-fit, minmax(265px, 1fr));
       grid-gap: 32px;
     }
 
