@@ -1,6 +1,9 @@
 
 body {
     background-color: #b0bec5;
+    background-image: url('assets/bilder_til_web/AUT_7526_2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
     font-size: 15px;
     margin: 0 auto;
     box-sizing: border-box;
@@ -9,19 +12,28 @@ body {
   }
 
   header {
-    background-image: url(./darya-tryfanava-eZbWq_48oBw-unsplash_2.jpg);
+    background-image: url(./assets/bilder_til_web/DSC_0711.jpg);
     width: 100%;
     max-width: 1600px;
     margin: 0 auto;
-    height: 185px;
+    height: 375px;
     background-repeat: no-repeat;
-    background-position: 50% 30%;
+    background-position: 50% 60%;
     background-size: cover;
+  }
+
+  header > span {
+    float: right;
+    text-align: right;
+    transform: scale(1.1);
+    transform-origin: top right;
+    margin-right: 47px;
   }
 
   h1 {
     font-family: 'Merriweather', sans-serif;
     font-size: 26px;
+    color: #fff;
   }
 
   h2,h3,h4,h5,h6 {

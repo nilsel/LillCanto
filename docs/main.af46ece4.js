@@ -189,7 +189,7 @@ var reloadCSS = require('_css_loader');
 
 module.hot.dispose(reloadCSS);
 module.hot.accept(reloadCSS);
-},{"./darya-tryfanava-eZbWq_48oBw-unsplash_2.jpg":[["darya-tryfanava-eZbWq_48oBw-unsplash_2.c6c227e1.jpg","darya-tryfanava-eZbWq_48oBw-unsplash_2.jpg"],"darya-tryfanava-eZbWq_48oBw-unsplash_2.jpg"],"_css_loader":"../../../.nvm/versions/node/v10.15.0/lib/node_modules/parcel/src/builtins/css-loader.js"}],"../../../.nvm/versions/node/v10.15.0/lib/node_modules/parcel/src/builtins/hmr-runtime.js":[function(require,module,exports) {
+},{"./assets/bilder_til_web/AUT_7526_2.jpg":[["AUT_7526_2.6aa6d11e.jpg","assets/bilder_til_web/AUT_7526_2.jpg"],"assets/bilder_til_web/AUT_7526_2.jpg"],"./assets/bilder_til_web/DSC_0711.jpg":[["DSC_0711.156c1e18.jpg","assets/bilder_til_web/DSC_0711.jpg"],"assets/bilder_til_web/DSC_0711.jpg"],"_css_loader":"../../../.nvm/versions/node/v10.15.0/lib/node_modules/parcel/src/builtins/css-loader.js"}],"../../../.nvm/versions/node/v10.15.0/lib/node_modules/parcel/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
 var OldModule = module.bundle.Module;
@@ -217,7 +217,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "63204" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "60843" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
