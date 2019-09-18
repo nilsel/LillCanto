@@ -1,14 +1,16 @@
 
 body {
-    background-color: #b0bec5;
+    background-color: #0a0a0a;
     background-image: url('/AUT_7526_2.6aa6d11e.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     font-size: 15px;
     margin: 0 auto;
+    margin-bottom: 80px;
     box-sizing: border-box;
     font-family: 'Merriweather', sans-serif;
     max-width: 1200px;
+    box-shadow: 0px 0px 1px #000, 0px 0px 44px #000;
   }
 
   header {
@@ -95,5 +97,9 @@ body {
     }
   /* } */
 
+  footer {
+    background-color: #fff;
+    height: 0;
+  }
 
 /*# sourceMappingURL=/main.af46ece4.css.map */
