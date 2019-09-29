@@ -1,13 +1,3 @@
-// alternative to DOMContentLoaded
-document.onreadystatechange = function () {
-  if (document.readyState == "interactive") {
-    loadMd('forside/kolonne-1', 'col1');
-    loadMd('forside/kolonne-2-kalender', 'col2');
-    loadMd('forside/kolonne-3', 'col3');
-  }
-}
-
-
 function loadMd(kind, targetElement) {
   var xhr = new XMLHttpRequest();
   xhr.onload = function () {

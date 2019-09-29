@@ -16,6 +16,15 @@
 </head>
 
 <body>
+  <script>
+    document.onreadystatechange = function () {
+    if (document.readyState == "interactive") {
+      loadMd('forside/kolonne-1', 'col1');
+      loadMd('forside/kolonne-2-kalender', 'col2');
+      loadMd('forside/kolonne-3', 'col3');
+    }
+  }
+  </script>
   <nav>
     <ul class="menu">
       <li><a href="./index.html">Hjem</a></li>
