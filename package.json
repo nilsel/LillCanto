@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "marked": "^0.7.0",
     "parcel": "^1.12.3"
   }
 }

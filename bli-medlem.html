@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -16,6 +15,13 @@
 </head>
 
 <body>
+  <script>
+  document.onreadystatechange = function () {
+  if (document.readyState == "interactive") {
+    loadMd('bli-medlem', 'bli-medlem-fullwidth');
+  }
+}
+</script>
   <nav>
     <ul class="menu">
       <li><a href="/">Hjem</a></li>
@@ -25,18 +31,14 @@
     </ul>
   </nav>
   <header>
-    <span><h1>Velkommen til LillCanto<br><small>blandakoret i Lillestrøm</small></h1>
+    <span>
+      <h1>Velkommen til LillCanto<br><small>blandakoret i Lillestrøm</small></h1>
   </header>
   <main>
-    <div class="col" id="col1">
-      <!-- markdown/forside/kolonne-1.md -->
+    <div class="col-fullwidth" id="bli-medlem-fullwidth">
+      <!-- markdown/bli-medlem.md -->
     </div>
-    <div class="col" id="col2">
-      <!-- content injected via MD -->
-    </div>
-    <div class="col" id="col3">
-      <!-- content injected via MD -->
-    </div>
+
   </main>
 
 
