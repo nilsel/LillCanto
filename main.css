@@ -33,8 +33,9 @@ body {
   }
 
   h1 {
-    font-family: 'Muli', sans-serif;
+    font-family: 'Merriweather', sans-serif;
     font-size: 26px;
+    color: #fff;
   }
 
   h2,h3,h4,h5,h6 {
