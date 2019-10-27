@@ -7,3 +7,5 @@ Tilbake får du positive opplevelser, spennende erfaringer, ny energi, og den go
 Vi ønsker nye medlemmer hjertelig velkommen i koret vårt!
 
 [Les mer om medlemskap](./bli-medlem.html)
+
+![LillCanto Julekonsert 2019](assets/bilder_til_web/LC2019.jpg)
