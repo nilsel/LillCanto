@@ -19,4 +19,5 @@ Du kan søke om permisjon fra koret i perioder du ikke kan delta. Medlemmer beta
 Utmelding skjer skriftlig. Hvis du slutter før det har gått en måned av et semester du har betalt for, får du kontingenten refundert. Noteavgift refunderes ikke.
 ### Personvern
 LillCanto bruker personopplysningene du gir ved innmelding til ajourhold av korets medlemsregister og til registrering av korets medlemmer hos Norges korforbund. Personopplysninger blir ikke gitt til andre. Styret er ansvarlig for at opplysningene om deg administreres på en forsvarlig måte. Du kan be om å få personopplysningene dine slettet ved å gi beskjed til styret.
+
 ![LillCanto Julekonsert 2019](assets/bilder_til_web/Kirkekonsert.jpg)
