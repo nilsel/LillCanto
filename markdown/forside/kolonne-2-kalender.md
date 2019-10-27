@@ -1,5 +1,7 @@
-## Konserter
+## Neste konsert:
+Velkommen til julekonsert!
+### Lyden av jul i Lillestrøm
+LillCanto og Lillestrøm Byorkester inviterer til julekonsert i Lillestrøm kirke søndag 8. desember kl 18.00. 
+Billetter ved inngangen kr 150,-. Barn gratis.
 
-### 23/9/19: Konsert Lillestrøm Kultursenter
-
-Sad lkj aslkdj alkdj, salkdj alkfjee fhslh lsrgh lrkugh! Kul glhkr ku fewhkuwh wøh aflsihf ødasfh søegh esg.
+![LillCanto Julekonsert 2019](assets/bilder_til_web/Banner-1.jpg)
