@@ -10,4 +10,10 @@ Vi ønsker nye medlemmer hjertelig velkommen i koret vårt!
 
 **Neste konsert:**
 
-Her kan vi enkelt legge inn tekst med omtale av neste konsert via innlogging. Informasjon vil kunne være hva slags musikk, komponister, solister, tid, sted og billettinformasjon.160 tegn. Link til vår arrangementside på FB.
+Velkommen til julekonsert!
+
+# Lyden av jul i Lillestrøm
+
+LillCanto og Lillestrøm Byorkester inviterer til julekonsert i Lillestrøm kirke søndag 8. desember kl 18.00. 
+
+Billetter ved inngangen kr 150,-. Barn gratis.
