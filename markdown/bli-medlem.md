@@ -1,10 +1,9 @@
 ## Bli medlem!
 
 Hvis du vurderer å bli med og synge i LillCanto kan du sende en epost til post@lillcanto.no. Fortell kort hvem du er og om du eventuelt har erfaring med sang eller musikk fra tidligere. Vi tar kontakt tilbake og avtaler at du kan komme på en øvelse for å bli litt bedre kjent med oss og vi med deg. Hvis du velger å bli medlem, fyller du et enkelt innmeldingssjema* som leveres til korets sekretær.
-Du kan også kontakte korets leder. Kontaktinformasjon (5)
+
 ### Øvingsdag
-Vi øver vanligvis i samlingssalen på Vigernes skole mandager kl 18.30-21.00.Link til kart
-Kontingent
+Vi øver vanligvis i samlingssalen på Vigernes skole mandager kl 18.30-21.00. [Trykk her for å se kart:](https://www.google.com/maps/place/Vigernes+skole/@59.9552564,11.0694978,17z/data=!3m1!4b1!4m5!3m4!1s0x46417cbdf859a029:0x42ea18aaf7b9d880!8m2!3d59.9552537!4d11.0716918)
 ### Medlemskontingent og noteavgift 
 Kr 1.200,- pr semester.
 Noteavgift kr 200,- pr. semester. Du eier selv notene som koret kjøper til de ulike prosjektene.
