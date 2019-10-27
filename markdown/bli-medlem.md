@@ -1,6 +1,6 @@
 ## Bli medlem!
 
-Hvis du vurderer å bli med og synge i LillCanto kan du sende en epost til post@lillcanto.no. Fortell kort hvem du er og om du eventuelt har erfaring med sang eller musikk fra tidligere. Vi tar kontakt tilbake og avtaler at du kan komme på en øvelse for å bli litt bedre kjent med oss og vi med deg. Hvis du velger å bli medlem, fyller du et enkelt innmeldingssjema* som leveres til korets sekretær.
+Hvis du vurderer å bli med og synge i LillCanto kan du sende en epost til post@lillcanto.no. Fortell kort hvem du er og om du eventuelt har erfaring med sang eller musikk fra tidligere. Vi tar kontakt tilbake og avtaler at du kan komme på en øvelse for å bli litt bedre kjent med oss og vi med deg. Hvis du velger å bli medlem, fyller du et enkelt innmeldingssjema som leveres til korets sekretær.
 
 ### Øvingsdag
 Vi øver vanligvis i samlingssalen på Vigernes skole mandager kl 18.30-21.00. 
