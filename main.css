@@ -51,7 +51,7 @@ body {
     background-color: #fff;
     padding: 0 42px;
   }
-  ul.menu {
+  nav > ul {
     margin-left: auto;
     list-style: none;
     display: flex;
@@ -61,16 +61,16 @@ body {
     flex-wrap: wrap;
   }
 
-  ul.menu > li {
+  nav > ul > li {
     display: flex;
   }
 
-  ul.menu > li > a {
+  nav > ul > li > a {
     color: #000;
     font-size: 16px;
     padding: 12px;
   }
-  ul.menu > li > a:hover {
+  nav > ul > li > a:hover {
     color: blue;
     transition: color ease-out .2s;
   }

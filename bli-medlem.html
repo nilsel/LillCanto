@@ -19,17 +19,13 @@
   document.onreadystatechange = function () {
   if (document.readyState == "interactive") {
     loadMd('bli-medlem', 'bli-medlem-fullwidth');
+    loadMd('meny', 'menu');
   }
 }
 </script>
-  <nav>
-    <ul class="menu">
-      <li><a href="./index.html">Hjem</a></li>
-      <li><a href="./kalender.html">Aktivitetskalender</a></li>
-      <li><a href="./bli-medlem.html">Bli&nbsp;medlem</a></li>
-      <li><a href="./kontakt.html">Kontakt&nbsp;oss</a></li>
-    </ul>
+  <nav id="menu">
   </nav>
+
   <header>
     <span>
       <h1>Velkommen til LillCanto<br><small>blandakoret i Lillestrøm</small></h1>
