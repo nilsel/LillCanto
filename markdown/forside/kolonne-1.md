@@ -4,7 +4,7 @@ Ingenting er som å synge i kor. Du trenger ikke annet enn din egen stemme, godt
 
 Tilbake får du positive opplevelser, spennende erfaringer, ny energi, og den gode følelsen av å gjøre noe verdifullt sammen med andre.
 
-Vi ønsker nye medlemmer hjertelig velkommen i koret vårt!
+Lyst til å synge i kor? Bor du i Lillestrøm eller i nærheten? Vi er blandakoret i Lillestrøm og ønsker nye medlemmer hjertelig velkommen i koret vårt!
 
 [Les mer om medlemskap](./bli-medlem.html)
 
