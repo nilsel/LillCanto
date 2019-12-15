@@ -9,3 +9,4 @@ Billetter: [Lillestrøm kultursenter](https://lillestrom-kultursenter.no/program
 
 ![LillCanto Julekonsert 2019](assets/bilder_til_web/SMIKplakat.jpg)
 
+![LillCanto Julekonsert 2019](assets/bilder_til_web/Lillestrombanken.jpg)
