@@ -5,4 +5,4 @@ Med Reidun Sæther, J.T.Lauritsen and his Buckshot Hunters, Tarjei van Ravens, e
 
 LØRDAG 1. FEBRUAR 2020 I LILLESTRØM KULTURSENTER.
 
-![LillCanto Julekonsert 2019](assets/bilder_til_web/SMIK1920x1080.jpg)
+![LillCanto Julekonsert 2019](assets/bilder_til_web/SMIKplakat.jpg)
