@@ -11,6 +11,6 @@ Fri inngang
 
 Det blir samlet inn penger til støtte for LEVE, Vipps eller kontanter.
 
-![LillCanto Julekonsert 2019](assets/bilder_til_web/Plakat Lillestrøm.pdf)
+![LillCanto Julekonsert 2019](assets/bilder_til_web/Støttekonsert.jpg)
 
-![LillCanto Julekonsert 2019](assets/bilder_til_web/Lillestrombanken.jpg)
+
