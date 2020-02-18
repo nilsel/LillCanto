@@ -4,6 +4,7 @@ STØTTEKONSERT
 Innsamlede midler går til LEVE - Landsforeningen for etterlatte ved selvmord 
 
 Med Vidar Worum og Idun Thorvaldsen
+
 LILLESTRØM KIRKE TORSDAG 19. MARS.KL 19.00
 Fri inngang - det blir samlet inn penger til støtte for LEVE, Vipps eller kontanter.
 
