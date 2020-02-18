@@ -11,6 +11,6 @@ Fri inngang
 
 Det blir samlet inn penger til støtte for LEVE, Vipps eller kontanter.
 
-![Støttekonsert](assets/bilder_til_web/Støttekonsert.jpg)
+![Støttekonsert](LillCanto/assets/bilder_til_web/Støttekonsert.jpg)
 
 
