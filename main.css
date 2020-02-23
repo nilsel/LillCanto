@@ -89,6 +89,7 @@ body {
       padding: 24px 42px;
       max-width: 1200px;
       margin: auto;
+      display: inline-block;
       display: grid;
       /* grid-template-columns: 1fr .75fr 1fr; */
       grid-template-columns: repeat(auto-fit, minmax(265px, 1fr));
@@ -97,7 +98,7 @@ body {
 
     main .col {
       height: 100%;
-      width: 100%;
+      /* width: 100%; */
       margin: 0;
       opacity: 0;
       transition: opacity 0.32s ease-out;
@@ -106,6 +107,18 @@ body {
       opacity: 1;
     }
   /* } */
+
+  /* IE */
+  @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+    main {
+      display: inline-block;
+    }
+    main .col {
+      float: left;
+      width: 32%;
+    }
+  }
+  /* end IE */
 
   footer {
     background-color: #fff;
