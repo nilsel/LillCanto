@@ -8,6 +8,6 @@ LILLESTRØM KIRKE SØNDAG 6. DESEMBER KL 18.00
 
 BILLETTER VED INNGANGEN KR 250,-. BARN GRATIS. BETALING FORTRINNSVIS MED VIPPS.
 
-![LillCanto Julekonsert 2020](assets/bilder_til_web/Støttekonsert.jpg)
+![LillCanto Julekonsert 2020](Lillestrom-kirke-web.jpg)
 
 
