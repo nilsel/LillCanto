@@ -6,7 +6,8 @@ Med LillCanto og musikere fra Romerike Symfoniorkester
 
 LILLESTRØM KIRKE SØNDAG 6. DESEMBER KL 18.00
 
-BILLETTER VED INNGANGEN KR 250,-. BARN GRATIS. BETALING FORTRINNSVIS MED VIPPS.
+Billetter ved inngangen KR 250,-. Barn gratis. 
+BETALING FORTRINNSVIS MED VIPPS.
 
 ![LillCanto Julekonsert 2019](assets/bilder_til_web/Lillestrom-kirke-web.jpg)
 
