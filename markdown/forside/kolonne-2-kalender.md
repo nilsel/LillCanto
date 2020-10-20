@@ -1,13 +1,10 @@
 ## Neste konsert:
 ### JULEKONSERT 
-### Julemusikken gjennom 900 år
-
-Med LillCanto og musikere fra Romerike Symfoniorkester 
+### Med Steinar Sivertsen (konferansier)
 
 LILLESTRØM KIRKE SØNDAG 6. DESEMBER KL 18.00
 
-Billetter ved inngangen kr 250,-. Barn gratis. 
-BETALING FORTRINNSVIS MED VIPPS.
+Sett av kvelden!
 
 ![LillCanto Julekonsert 2019](assets/bilder_til_web/Lillestrom-kirke-web.jpg)
 
