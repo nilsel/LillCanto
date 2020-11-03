@@ -1,7 +1,7 @@
 ## Neste konsert:
 ### JULEKONSERT 
-### Dirigent: Barbro Berg
-### Med Mathias Finkenhagen, orgel. Steinar Sivertsen, konferansier.
+## Dirigent: Barbro Berg
+## Med Mathias Finkenhagen, orgel. Konferansier: Steinar Sivertsen.
 
 LILLESTRØM KIRKE SØNDAG 6. DESEMBER KL 18.30
 
