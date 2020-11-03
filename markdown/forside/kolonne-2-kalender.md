@@ -1,10 +1,11 @@
 ## Neste konsert:
 ### JULEKONSERT 
-### Med Steinar Sivertsen (konferansier)
+### Dirigent: Barbro Berg
+### Med Mathias Finkenhagen, orgel. Steinar Sivertsen, konferansier.
 
-LILLESTRØM KIRKE SØNDAG 6. DESEMBER KL 18.00
+LILLESTRØM KIRKE SØNDAG 6. DESEMBER KL 18.30
 
-Sett av kvelden!
+Billetter kr. 200,- ved inngangen. Barn gratis. Betaling med Vipps eller kontant (ingen veksling).
 
 ![LillCanto Julekonsert 2019](assets/bilder_til_web/Lillestrom-kirke-web.jpg)
 
