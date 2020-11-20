@@ -1,4 +1,4 @@
-## Neste konsert:
+## AVLYST:
 ## JULEKONSERT 
 Dirigent: Barbro Berg
 
