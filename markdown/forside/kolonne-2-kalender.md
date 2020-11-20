@@ -1,5 +1,5 @@
 ## AVLYST:
-## JULEKONSERT 
+## JULEKONSERT MED LILLCANTO
 Dirigent: Barbro Berg
 
 Med Mathias Finkenhagen, orgel. 
