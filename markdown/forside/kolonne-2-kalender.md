@@ -12,6 +12,6 @@ Del II er gjennomføring av et helgeseminar for nye og gamle kormedlemmer. Med p
 ### Korsang bidrar til bedre helse
 Korsang bidrar til bedre helse, trivsel og livskvalitet for mennesker i alle aldre. Studier viser at tilrettelagt korsangtilbud fkan ha potensiale til å påvirke psykiske helseplager positivt. Det å synge i kor kan gi mening og sammenheng i tilværelsen for mennesker som lider av kroniske sykdommer. Korsang ser ut til å ha positiv effekt på mental helse og kan redusere angst og depresjon. (Kilde: https://www.krafttakforsang.no/sang-og-helse-2)
 
-![LillCanto Julekonsert 2019](assets/bilder_til_web/LogoBlomstring.png)
+![LillCanto Julekonsert 2019](assets/bilder_til_web/LogoBlomstring.jpg)
 
 
