@@ -1,5 +1,5 @@
 ### Semesterstart:
-## Vi øver mandag 23. august
+## Vi øver mandag 30. august
 
 ![LillCanto Julekonsert 2019](assets/bilder_til_web/SKal.jpg)
 
