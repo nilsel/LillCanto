@@ -1,7 +1,7 @@
 ### Det guddommeliges mangfold i tekst og toner:
 ## EN GUD I FORKLEDNINGER
 
-![blad](assets/bilder_til_web/SKal.jpg)
+![blad](assets/bilder_til_web/blad.png)
 
 I høstens konsert presenterer LillCanto musikk og sanger som viser at det guddommelige kan ha ulike forkledninger. Det kan skjule seg i naturen, i et menneske, et dyr eller i kirkerommet. Mennesket har gjennom alle tider søkt etter noe utenfor seg selv og gitt uttrykk for sine sinnsstemninger gjennom legender, kvad, dikt og musikk.
 
