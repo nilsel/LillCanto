@@ -1,5 +1,5 @@
-### Det guddommeliges mangfold i tekst og toner:
-## EN GUD I FORKLEDNINGER
+### Høstkonsert
+## EN GUD I FORKLEDNINGER Det guddommeliges mangfold i tekst og toner
 
 ![blad.png](assets/bilder_til_web/blad.png)
 
