@@ -1,4 +1,4 @@
-### Det guddommeliges mangfold i tekst og toner.:
+### Det guddommeliges mangfold i tekst og toner:
 ## EN GUD I FORKLEDNINGER
 
 ![blad](assets/bilder_til_web/SKal.jpg)
