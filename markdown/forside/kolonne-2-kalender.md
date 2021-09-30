@@ -1,6 +1,10 @@
-### Semesterstart:
-## Vi øver mandag 30. august
+### Det guddommeliges mangfold i tekst og toner.:
+## EN GUD I FORKLEDNINGER
 
 ![LillCanto Julekonsert 2019](assets/bilder_til_web/SKal.jpg)
 
-Nå håper vi alle er friske og raske og klare til å ta fatt på en spennede høstsesong med LillCanto. Koret møtes i Strømmen kirke til utsatt semesterstart, til vanlig tid kl 18.30. Vi følger gjeldende anbefalinger for smittevern og setter oss med 1 meters avstand til sidene, og 1,5 meter mellom rekkene. Isabel og Kristin er våre smittevern-engler og tilviser plasser og sørger for å tørke av seter og stolrygger med Antibac. Har du lyst å være med? Send en epost til post@lillcanto.no!
+I høstens konsert presenterer LillCanto musikk og sanger som viser at det guddommelige kan ha ulike forkledninger. Det kan skjule seg i naturen, i et menneske, et dyr eller i kirkerommet. Mennesket har gjennom alle tider søkt etter noe utenfor seg selv og gitt uttrykk for sine sinnsstemninger gjennom legender, kvad, dikt og musikk.
+
+Hovedverket i konserten er Förklädd gud, lyrisk suite op. 24 av Lars-Erik Larsson. Tekst av Hjalmar Gullberg. Resitasjon: Liv Hege Nylund. Orgel Mattias Finkenhagen. Solister Hanna Linnéa Lindtvedt og Mathilde Hofvind Borgen.
+
+BILLETTER KR 200,- selges ved inngangen. Barn under 16 år gratis.
