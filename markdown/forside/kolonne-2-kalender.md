@@ -8,4 +8,4 @@ I høstens konsert presenterer LillCanto musikk og sanger som viser at det guddo
 
 Hovedverket i konserten er Förklädd gud, lyrisk suite op. 24 av Lars-Erik Larsson. Tekst av Hjalmar Gullberg. Resitasjon: Liv Hege Nylund. Orgel Mattias Finkenhagen. Solister Hanna Linnéa Lindtvedt og Mathilde Hofvind Borgen.
 
-Lillestrøm kirke søndag 17. oktober kl 18.30. BILLETTER KR 200,- selges ved inngangen. Barn under 16 år gratis.
+Strømmen kirke søndag 17. oktober kl 18.30. BILLETTER KR 200,- selges ved inngangen. Barn under 16 år gratis.
