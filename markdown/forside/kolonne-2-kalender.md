@@ -1,4 +1,4 @@
-### Julekonsert søndag 5 desember
+### Julekonsert søndag 5. desember
 ## TRADISJONEN TRO 
 ### Julekonsert i Lillestrøm kirke
 
