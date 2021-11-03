@@ -2,7 +2,7 @@
 ## TRADISJONEN TRO 
 ### Julekonsert i Lillestrøm kirke
 
-![Banner-1.jpg](assets/bilder_til_web/Banner-1.jpg)
+![ArrBildeJUL21.png](assets/bilder_til_web/ArrBildeJUL21.png)
 
 LillCanto, blandet kor. 
 Mathias Finkenhagen, orgel. 
