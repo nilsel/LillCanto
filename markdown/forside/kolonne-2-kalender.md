@@ -1,12 +1,15 @@
-### AVLYST Julekonsert søndag 5. desember
-## TRADISJONEN TRO 
-### Julekonsert i Lillestrøm kirke
+### I VÅR TID
+## Minikosert med samtidsmusikk 
+### Kafé Nitja • NITJA Senter for samtidskunst
 
 ![ArrBildeJUL21.png](assets/bilder_til_web/ArrBildeJUL21.png)
 
+Fredag 20 mai (tidspunkt kommer)
 LillCanto, blandet kor. 
-Mathias Finkenhagen, orgel. 
-Steinar Sivertsen, konferansier. 
+Mathias Finkenhagen, klaver.  
 Barbro Berg, dirigent.
 
-Konserten er dessverre avlyst.
+
+Vi framfører verk av 
+Eva Holm Foosnes, Ola Geilo, Javier Busto, Trond Dahlen, 
+Jaakko Mäntyjärvi og Kim André Arnesen
