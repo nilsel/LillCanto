@@ -2,7 +2,7 @@
 ## Minikonsert med samtidsmusikk 
 ### Kafé Nitja • NITJA Senter for samtidskunst
 
-![ArrBildeJUL21.png](assets/bilder_til_web/ArrBildeJUL21.png)
+![Kafenitja](https://user-images.githubusercontent.com/55960818/159728786-843412c7-142e-46c0-96aa-0d8c3fa8e0ff.jpg)
 
 Fredag 20 mai (tidspunkt kommer)
 LillCanto, blandet kor. 
