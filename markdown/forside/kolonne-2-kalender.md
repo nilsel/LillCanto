@@ -1,5 +1,5 @@
 ### I VÅR TID
-## Minikosert med samtidsmusikk 
+## Minikonsert med samtidsmusikk 
 ### Kafé Nitja • NITJA Senter for samtidskunst
 
 ![ArrBildeJUL21.png](assets/bilder_til_web/ArrBildeJUL21.png)
