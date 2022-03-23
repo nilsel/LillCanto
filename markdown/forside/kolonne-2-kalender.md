@@ -9,7 +9,6 @@ LillCanto, blandet kor.
 Mathias Finkenhagen, klaver.  
 Barbro Berg, dirigent.
 
-
 Vi framfører verk av 
 Eva Holm Foosnes, Ola Geilo, Javier Busto, Trond Dahlen, 
 Jaakko Mäntyjärvi og Kim André Arnesen
