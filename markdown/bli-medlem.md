@@ -6,7 +6,7 @@ Hvis du vurderer å bli med og synge i LillCanto kan du sende en epost til post@
 Vi øver i Voldgata 10, sentralt i Lillestrøm hver mandag kl 18.30-21.00. (Norasondes lokaler, inng. Voldgt.)
 <a href="https://www.google.com/maps/place/Voldgata+10,+2000+Lillestrøm/@59.9551584,11.0441749,17.07z/data=!4m5!3m4!1s0x46417ca067978775:0x976f13077d3d2f76!8m2!3d59.9551119!4d11.0463795">Trykk her for å se kart</a>
 ### Medlemskontingent og noteavgift 
-Medlemskontingenten er Kr 1.200,- pr semester.
+Medlemskontingenten er Kr 1.500,- pr semester.
 Noteavgift kr 200,- pr. semester. Du eier selv notene som koret kjøper til de ulike prosjektene.
 Kontingent og noteavgift betales pr. semester forskuddsvis i januar og august. Du får beskjed om innbetaling via nettbank på epost. Du kan få bankgiro innbetalingsblankett hvis du ønsker det.
 
