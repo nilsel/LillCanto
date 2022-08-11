@@ -1,17 +1,7 @@
-## I VÅR TID
-### Minikonsert med samtidsmusikk 
-### Kafé Nitja • NITJA Senter for samtidskunst
+## Ny dirigent til LillCanto
+### Tage Tysland (f. 1976) er engasjert som korets nye dirigent.  
 
-![Kafenitja](https://user-images.githubusercontent.com/55960818/159728786-843412c7-142e-46c0-96aa-0d8c3fa8e0ff.jpg)
+![Tage](https://user-images.githubusercontent.com/55960818/184159477-e948c638-9e48-488a-bd22-199608d6828c.jpg)
 
-Fredag 20 mai kl. 18.30
-LillCanto, blandet kor. 
-Mathias Finkenhagen, klaver.  
-Barbro Berg, dirigent.
-
-Vi framfører verk av 
-Eva Holm Foosnes, Ola Geilo, Javier Busto, Trond Dahlen, 
-Jaakko Mäntyjärvi og Kim André Arnesen
-
-Etter konserten, ca kl 19.00, blir det en orientering om utstillingen 
-(entré kr 40/20) og sosialt samvær i kafeen fram til kl 21.00.
+Han er utdannet komponist ved Norges Musikkhøyskole (cand. mag.) og har direksjonsfag fra Rud Videregående Musikklinje, obligatorisk kurs for komposisjonsstudenter ved Norges Musikkhøyskole, valgfag i direksjon fra Norges Musikkhøyskole og ett års etterutdanning som dirigent ved Norges Musikkhøyskole. Hovedinstrumentet hans er piano.
+Vi starter høstsesongen mandag 22. august og gleder oss til å jobbe med Tage og videreføre og videreutvikle korets posisjon som «blandakoret i Lillestrøm». Lyst å være med? Send oss en melding!
