@@ -1,4 +1,4 @@
-## Julekonsert
+## Velkommen til julekonsert
 <img width="467" alt="JUL22" src="https://user-images.githubusercontent.com/55960818/197812183-41c965ac-e001-4a25-8102-490c8f8f5a19.png">
 
 ### Søndag 6. desember kl 18.00
