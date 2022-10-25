@@ -6,4 +6,4 @@ Vi har en lukket Facebookgruppe for medlemmer hvor det blir gitt intern informas
 
 ![LillCanto Julekonsert 2019](assets/bilder_til_web/LCgruppebilde.jpg)
 
-<img width="221" alt="SPONSORER" src="https://user-images.githubusercontent.com/55960818/197803941-e63b78ef-5ebf-48ff-9504-88385383d044.png">
+<img width="405" alt="Sponsor2" src="https://user-images.githubusercontent.com/55960818/197805592-b7927d80-9c20-497b-b573-2ace0afdc0ec.png">
