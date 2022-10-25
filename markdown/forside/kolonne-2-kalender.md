@@ -3,6 +3,5 @@
 ### Søndag 6. desember kl 18.00
 ### Med Mathias Finkenhagen, orgel
 ### Dirigent: Tage Tysland. 
-
 Billetter kr 150,- ved inngangen.
 Barn under 16 år gratis.
