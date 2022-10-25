@@ -1,7 +1,8 @@
-## Konsert med LillCanto, Reidun Sæther og Dan Lindén
-### Dirigent: Tage Tysland. Konferansier: Hege S. Borgersen.
+<img width="467" alt="JUL22" src="https://user-images.githubusercontent.com/55960818/197812183-41c965ac-e001-4a25-8102-490c8f8f5a19.png">
 
-<img width="431" alt="Annonse-1" src="https://user-images.githubusercontent.com/55960818/187207448-887dabe5-9c7b-4cd9-933c-d682ad3e71c9.png">
+### Søndag 6. desember kl 18.00
+### Med Mathias Finkenhagen, orgel
+### Dirigent: Tage Tysland. 
 
-Billetter kr 250 hos Lillestrøm kultursenter
-(https://www.lillestrom-kultursenter.no/event/lill-canto-fanga-mig-vind/)
+Billetter kr 150,- ved inngangen.
+Barn under 16 år gratis.
