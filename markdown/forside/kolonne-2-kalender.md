@@ -1,4 +1,4 @@
-## Mandag 21. august starter høstsemesteret
+## Jubileumskonsert
 <img width="724" alt="Skjermbilde 2023-05-09 kl  18 47 12" src="https://github.com/nilsel/LillCanto/assets/55960818/7b73e04d-53d2-4285-9471-a158b95090b9">
 
 I år er det 40 år siden LillCanto, blandakoret i Lillestrøm ble stiftet. Det markerer vi med jubileumskonsert i Lillestrøm kirke søndag den 26. november kl 18.00. 
